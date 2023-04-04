@@ -1,0 +1,6 @@
+The open cart features:
+
+add to cart
+login
+logout
+dashboard
